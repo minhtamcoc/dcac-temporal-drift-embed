@@ -1,0 +1,4 @@
+Giau tin video bang DC/AC temporal drift
+
+Open the lab manual:
+file://LAB_DOCS/dcac-temporal-drift-embed.md
